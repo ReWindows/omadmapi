@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "omadmapi.dll",
+  "latest": "437416284-616888ACE68FBD1630F29FFDE0456E87-1",
+  "builds": [
+    {
+      "key": "437416284-616888ACE68FBD1630F29FFDE0456E87-1",
+      "timestamp": "437416284",
+      "pdb_guid": "616888ACE68FBD1630F29FFDE0456E87",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/437416284-616888ACE68FBD1630F29FFDE0456E87-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
